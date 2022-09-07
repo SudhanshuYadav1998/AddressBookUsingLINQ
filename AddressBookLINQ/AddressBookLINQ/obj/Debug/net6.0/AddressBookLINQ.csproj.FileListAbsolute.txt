@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\bin\Debug\net6.0\AddressBookLINQ.exe
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\bin\Debug\net6.0\AddressBookLINQ.deps.json
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\bin\Debug\net6.0\AddressBookLINQ.runtimeconfig.json
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\bin\Debug\net6.0\AddressBookLINQ.dll
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\bin\Debug\net6.0\AddressBookLINQ.pdb
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\obj\Debug\net6.0\AddressBookLINQ.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\obj\Debug\net6.0\AddressBookLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\obj\Debug\net6.0\AddressBookLINQ.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\obj\Debug\net6.0\AddressBookLINQ.AssemblyInfo.cs
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\obj\Debug\net6.0\AddressBookLINQ.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\obj\Debug\net6.0\AddressBookLINQ.dll
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\obj\Debug\net6.0\refint\AddressBookLINQ.dll
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\obj\Debug\net6.0\AddressBookLINQ.pdb
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\obj\Debug\net6.0\AddressBookLINQ.genruntimeconfig.cache
+C:\RFP\C_sharp\AddressBookLINQ\AddressBookLINQ\obj\Debug\net6.0\ref\AddressBookLINQ.dll
